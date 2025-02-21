@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chihaya-Yuka</h1>
+<h1 align="center">Hi 👋, I'm Chihaya Yuka</h1>
 <h3 align="center">A full stack engineer from China</h3>
 
 - 🔭 I’m currently working on Lumen Lab.
